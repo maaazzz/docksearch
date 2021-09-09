@@ -1,0 +1,19 @@
+menu spell//
+add menue button text and text box text//
+change input to textarea//
+logo redirect to home page//
+change logo//
+remove dock for sell and rent from user modal
+delete dock//
+
+Change
+rent list change dock list//
+Add setting to//
+review and rent list sidebar//
+website setting//
+remove rentlist a/nd review settings//
+change home page to website setting//
+change add setting to website setting//
+add menu settings//
+change forms setting to //
+add back button in every page
